@@ -1,0 +1,75 @@
+/* About.css */
+
+.about-container {
+  margin-top: 5%;
+  max-width: 1200px;
+  /* margin: 0 auto; */
+  padding: 20px;
+}
+
+.about-content {
+  margin-bottom: 40px;
+}
+
+.about-content h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.about-content p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.testimonials {
+  margin-bottom: 40px;
+}
+
+.testimonials h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.testimonial-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.testimonial-item {
+  flex-basis: calc(50% - 20px);
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.testimonial-comment {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.testimonial-name {
+  font-size: 14px;
+  color: #555;
+}
+
+/* Media queries for responsiveness */
+
+/* For medium-sized devices */
+@media (max-width: 768px) {
+  .testimonial-item {
+    flex-basis: 100%;
+  }
+}
+
+/* For small-sized devices */
+@media (max-width: 576px) {
+  .about-container {
+    margin-top: 25%;
+    padding: 10px;
+  }
+}

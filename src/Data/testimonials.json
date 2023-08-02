@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "comment": "This product is amazing!"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "comment": "I love this product! Highly recommended."
+  }
+]

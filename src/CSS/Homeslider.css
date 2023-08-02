@@ -1,0 +1,91 @@
+/* homeslider.css */
+.imgslider {
+  margin-top: 8%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 300px; Set the desired height of the slider */
+  overflow: hidden;
+}
+
+.slider-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.slider-image {
+  width: 100%;
+  height: 300px;
+  object-fit: fill;
+  transition: transform 0.3s ease-out;
+}
+
+/* Optional: Add navigation arrows or dots */
+
+.slider-container button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 0 20px;
+}
+
+.slider-container button:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+/* Optional: Add dots below the slider images */
+
+.slider-dots {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+}
+
+.slider-dot {
+  width: 10px;
+  height: 10px;
+  background: white;
+  border-radius: 50%;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.slider-dot.active {
+  background: gray;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .imgslider {
+    margin-top: 15%; /* Adjust the top margin for smaller screens */
+    height: 200px; /* Adjust the height for smaller screens */
+  }
+
+  .slider-image {
+    height: 200px; /* Adjust the height for smaller screens */
+  }
+}
+
+@media (max-width: 576px) {
+  .imgslider {
+    margin-top: 30px; /* Further adjust the top margin for smaller screens */
+    height: 150px; /* Further adjust the height for smaller screens */
+  }
+
+  .slider-image {
+    height: 150px; /* Further adjust the height for smaller screens */
+  }
+}
+@media (max-width: 576px) {
+  .imgslider {
+    margin-top: 25%;
+  }
+}

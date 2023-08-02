@@ -1,0 +1,51 @@
+/* Styling for the container of the 'WhyChooseUs' component */
+.why-choose-us-container {
+  padding: 20px;
+}
+
+/* Styling for the 'why-choose-us' section */
+.why-choose-us {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Styling for each feature block */
+.feature {
+  width: 300px;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+/* Styling for the feature icon */
+.feature-icon img {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 0 auto 10px;
+}
+
+/* Styling for feature title and description */
+.feature-text h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+/* Styling for feature description */
+.feature-text p {
+  font-size: 14px;
+  color: #666;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .why-choose-us {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .feature {
+    width: 90%;
+  }
+}

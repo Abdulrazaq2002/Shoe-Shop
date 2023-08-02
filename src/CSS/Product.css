@@ -1,0 +1,92 @@
+#contented {
+  max-width: 60%px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+#contented h2 {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+#contented p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+#contented .brands {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#contented .dessc {
+  color: #767676;
+  margin-bottom: 20px;
+}
+
+#contented .select-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+#contented .color-select,
+#contented .size-select {
+  width: 120px;
+  height: 40px;
+  padding: 0 10px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  box-shadow: 0 2px 5px 1px black;
+}
+
+#contented .color-select:focus,
+#contented .size-select:focus {
+  outline: none;
+  border-color: #f0c14b;
+  box-shadow: 0 2px 5px 1px black;
+}
+
+#contented .add-to-cart {
+  background-color: #333;
+  border: 1px solid #333;
+  color: #fff;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+}
+
+#contented .add-to-cart:hover {
+  opacity: 0.8;
+  color: #fff;
+}
+
+.pprice {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 767px) {
+  #contented {
+    flex-direction: column;
+  }
+
+  #contented .select-container {
+    flex-wrap: nowrap;
+  }
+
+  #contented .color-select,
+  #contented .size-select {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+}

@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "name": "Asian Running Shoes",
+    "brand": "Asian",
+    "price": 1999,
+    "color": "Black/Red",
+    "size": "UK 9",
+    "image": "../IMGS/men1.jpg",
+    "images": ["../IMGS/men1.jpg", "../IMGS/men2.jpg", "../IMGS/men3.jpg"],
+    "category": "Sports",
+    "gender": "Men",
+    "searchtags": [
+      "asian men",
+      "asian shoes",
+      "asian",
+      "sports",
+      "running",
+      "mens"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sparx Casual Sneakers",
+    "brand": "Sparx",
+    "price": 1499,
+    "color": "White",
+    "size": "UK 8",
+    "image": "../IMGS/men4.jpeg",
+    "images": ["../IMGS/men4.jpeg", "../IMGS/men5.jpg", "../IMGS/men6.jpg"],
+    "category": "Casual",
+    "gender": "Men",
+    "searchtags": [
+      "sparx men",
+      "sparx shoes",
+      "sparx",
+      "casual",
+      "running",
+      "mens"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Asian Sports Casual",
+    "brand": "Asian",
+    "price": 1299,
+    "color": "Navy Blue",
+    "size": "UK 10",
+    "image": "../IMGS/men7.jpg",
+    "images": ["../IMGS/men7.jpg", "../IMGS/men8.jpg", "../IMGS/men9.jpg"],
+    "category": "Sports",
+    "gender": "Men",
+    "searchtags": [
+      "asian men",
+      "asian shoes",
+      "asian",
+      "casual",
+      "running",
+      "mens",
+      "sandals"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sparx Leather Loafers",
+    "brand": "Sparx",
+    "price": 2299,
+    "color": "Brown",
+    "size": "UK 9",
+    "category": "Formal",
+    "gender": "Men",
+    "image": "../IMGS/men10.jpg",
+    "images": ["../IMGS/men10.jpg", "../IMGS/men11.jpg", "../IMGS/men12.jpg"],
+    "searchtags": [
+      "sparx men",
+      "sparx shoes",
+      "sparx",
+      "formal",
+      "office",
+      "mens"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Campus Casual Slip-ons",
+    "brand": "Campus",
+    "price": 1599,
+    "color": "Grey",
+    "size": "UK 7",
+    "category": "Casual",
+    "gender": "Men",
+    "image": "../IMGS/men13.jpg",
+    "images": ["../IMGS/men13.jpg", "../IMGS/men14.jpg", "../IMGS/men15.jpg"],
+    "searchtags": [
+      "campus men",
+      "campus shoes",
+      "campus",
+      "casual",
+      "Formal",
+      "office",
+      "mens"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sparx Running Shoes",
+    "brand": "Sparx",
+    "price": 1899,
+    "color": "Black",
+    "size": "UK 10",
+    "category": "Sports",
+    "gender": "Men",
+    "image": "../IMGS/men16.jpg",
+    "images": ["../IMGS/men16.jpg", "../IMGS/men17.jpg", "../IMGS/men18.jpg"],
+    "searchtags": [
+      "sparx men",
+      "sparx shoes",
+      "sparx",
+      "sports",
+      "running",
+      "mens"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Campus Formal Oxford Shoes",
+    "brand": "Campus",
+    "price": 2499,
+    "color": "Black",
+    "size": "UK 8",
+    "category": "Formal",
+    "gender": "Men",
+    "image": "../IMGS/men19.jpg",
+    "images": ["../IMGS/men19.jpg", "../IMGS/men20.jpg", "../IMGS/men21.jpg"],
+    "searchtags": [
+      "campus men",
+      "campus shoes",
+      "campus",
+      "formal",
+      "office",
+      "mens"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sparx Canvas Sneakers",
+    "brand": "Sparx",
+    "price": 1399,
+    "color": "Navy Blue",
+    "size": "UK 9",
+    "category": "Casual",
+    "gender": "Men",
+    "image": "../IMGS/men22.jpg",
+    "images": ["../IMGS/men22.jpg", "../IMGS/men23.jpg", "../IMGS/men24.jpg"],
+    "searchtags": [
+      "sparx men",
+      "sparx shoes",
+      "sparx",
+      "casual",
+      "formal",
+      "office",
+      "mens"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Asian Leather Boots",
+    "brand": "Asian",
+    "price": 2999,
+    "color": "Tan",
+    "size": "UK 9",
+    "category": "Casual",
+    "gender": "Men",
+    "image": "../IMGS/men25.jpg",
+    "images": ["../IMGS/men25.jpg", "../IMGS/men26.jpg", "../IMGS/men27.jpg"],
+    "searchtags": [
+      "asian men",
+      "asian shoes",
+      "asian",
+      "formal",
+      "office",
+      "casual",
+      "mens"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Sparx Athletic Training Shoes",
+    "brand": "Sparx",
+    "price": 1799,
+    "color": "Black/Orange",
+    "size": "UK 10",
+    "category": "Sports",
+    "gender": "Men",
+    "image": "../IMGS/men28.jpg",
+    "images": ["../IMGS/men28.jpg", "../IMGS/men29.jpg", "../IMGS/men30.jpg"],
+    "searchtags": [
+      "sparx men",
+      "sparx shoes",
+      "sparx",
+      "sports",
+      "running",
+      "mens"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Campus Women's Running Shoes",
+    "brand": "Campus",
+    "price": 1899,
+    "color": "Pink/White",
+    "size": "UK 6",
+    "category": "Sports",
+    "gender": "Women",
+    "image": "../IMGS/men31.jpg",
+    "images": ["../IMGS/men31.jpg", "../IMGS/men32.jpg", "../IMGS/men33.jpg"],
+    "searchtags": [
+      "campus men",
+      "campus shoes",
+      "campus",
+      "sports",
+      "running",
+      "womens"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Bata Women's Shoes",
+    "brand": "Bata",
+    "price": 899,
+    "color": "Brown",
+    "size": "UK 6",
+    "category": "Casual",
+    "gender": "Women",
+    "image": "../IMGS/men34.jpg",
+    "images": ["../IMGS/men34.jpg", "../IMGS/men35.jpeg", "../IMGS/men36.jpg"],
+    "searchtags": [
+      "bata women",
+      "bata shoes",
+      "bata",
+      "casual",
+      "sandals",
+      "womens"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Bata Women's Lofer's",
+    "brand": "Bata",
+    "price": 1499,
+    "color": "Black",
+    "size": "UK 7",
+    "category": "Formal",
+    "gender": "Women",
+    "image": "../IMGS/men37.jpg",
+    "images": ["../IMGS/men37.jpg", "../IMGS/men38.jpg", "../IMGS/men39.jpg"],
+    "searchtags": [
+      "bata women",
+      "bata shoes",
+      "bata",
+      "formal",
+      "heels",
+      "womens"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Bata Women's Boots",
+    "brand": "Bata",
+    "price": 1999,
+    "color": "Black",
+    "size": "UK 6",
+    "category": "Casual",
+    "gender": "Women",
+    "image": "../IMGS/men40.jpeg",
+    "images": [
+      "../IMGS/men40.jpeg",
+      "../IMGS/men41.jpeg",
+      "../IMGS/men42.jpeg"
+    ],
+    "searchtags": [
+      "bata women",
+      "bata shoes",
+      "bata",
+      "casual",
+      "boots",
+      "womens"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Bata Men's Formal Shoes",
+    "brand": "Bata",
+    "price": 2499,
+    "color": "Black",
+    "size": "UK 9",
+    "category": "Formal",
+    "gender": "Men",
+    "image": "../IMGS/men43.jpeg",
+    "images": ["../IMGS/men43.jpeg", "../IMGS/men44.jpg", "../IMGS/men45.jpeg"],
+    "searchtags": ["bata men", "bata shoes", "bata", "formal", "office", "mens"]
+  },
+  {
+    "id": 31,
+    "name": "Kids' Sporty Sneakers",
+    "brand": "Sparx",
+    "price": 999,
+    "color": "Red/Blue",
+    "size": "UK 4",
+    "category": "Sports",
+    "gender": "Kids",
+    "image": "../IMGS/men45.jpg",
+    "images": ["../IMGS/men45.jpg", "../IMGS/men46.jpg", "../IMGS/men47.jpg"],
+    "searchtags": ["kids shoes", "kids sneakers", "sports", "running", "kids"]
+  },
+  {
+    "id": 32,
+    "name": "Cute Canvas Slip-ons",
+    "brand": "Asian",
+    "price": 799,
+    "color": "Pink/White",
+    "size": "UK 3",
+    "category": "Casual",
+    "gender": "Kids",
+    "image": "../IMGS/men48.jpg",
+    "images": ["../IMGS/men48.jpg", "../IMGS/men49.jpg", "../IMGS/men50.jpg"],
+    "searchtags": ["kids shoes", "canvas shoes", "casual", "kids"]
+  },
+  {
+    "id": 33,
+    "name": "Kids' Sandals",
+    "brand": "SandalWorld",
+    "price": 599,
+    "color": "Blue",
+    "size": "UK 2",
+    "category": "Casual",
+    "gender": "Kids",
+    "image": "../IMGS/men52.jpg",
+    "images": ["../IMGS/men52.jpg", "../IMGS/men53.jpg", "../IMGS/men54.jpg"],
+    "searchtags": ["kids shoes", "kids sandals", "casual", "kids"]
+  },
+  {
+    "id": 34,
+    "name": "Stylish Kids' Boots",
+    "brand": "Stylo",
+    "price": 1199,
+    "color": "Black",
+    "size": "UK 4",
+    "category": "Casual",
+    "gender": "Kids",
+    "image": "../IMGS/men55.jpg",
+    "images": ["../IMGS/men55.jpg", "../IMGS/men56.jpg", "../IMGS/men57.jpg"],
+    "searchtags": ["kids shoes", "kids boots", "casual", "kids"]
+  },
+  {
+    "id": 35,
+    "name": "Kids' Athletic Shoes",
+    "brand": "ActiveKids",
+    "price": 899,
+    "color": "Grey/Orange",
+    "size": "UK 5",
+    "category": "Sports",
+    "gender": "Kids",
+    "image": "../IMGS/men58.jpg",
+    "images": ["../IMGS/men58.jpg", "../IMGS/men59.jpg", "../IMGS/men60.jpg"],
+    "searchtags": [
+      "kids shoes",
+      "kids athletic shoes",
+      "sports",
+      "running",
+      "kids"
+    ]
+  }
+]
